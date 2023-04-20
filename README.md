@@ -29,4 +29,4 @@ Web3 Projects of SEETA
 
 # Education
 
-1. https://github.com/seetadev/Web3-Play-Physics
+1. Web3 Play Physics: https://github.com/seetadev/Web3-Play-Physics
